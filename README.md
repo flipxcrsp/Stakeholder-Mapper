@@ -10,7 +10,7 @@
 
 ## About This Project
 
-Designed and built by **Phillip Crespo** "flipxcrsp" using **Base44**.
+Designed and built by **Phil Crespo** "flipxcrsp" using **Base44**.
 
 Stakeholder Mapper explores stakeholder mapping, buying committee visualization, and deal risk analysis.
 
