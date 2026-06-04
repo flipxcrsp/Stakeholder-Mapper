@@ -8,6 +8,16 @@
 
 ---
 
+## About This Project
+
+Designed and built by **Phillip Crespo** "flipxcrsp" using **Base44**.
+
+Stakeholder Mapper explores stakeholder mapping, buying committee visualization, and deal risk analysis for B2B sales teams.
+
+I was responsible for the product requirements, workflow design, business logic, testing, and documentation.
+
+---
+
 ## The Problem
 
 Enterprise deals are won or lost in the buying committee — not in a single conversation. Most CRMs track *contacts*, but they don't help you understand the **relationships**, **influence**, and **sentiment** that determine whether a deal closes.
