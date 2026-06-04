@@ -16,6 +16,9 @@ Stakeholder Mapper explores stakeholder mapping, buying committee visualization,
 
 I was responsible for the product requirements, workflow design, business logic, testing, and documentation.
 
+> **Note:** This is version 1.0. What started as a lunch break experiment turned into a project worth sharing 😅
+
+
 ---
 
 ## The Problem
