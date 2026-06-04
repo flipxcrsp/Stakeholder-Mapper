@@ -10,11 +10,11 @@
 
 ## About This Project
 
-Designed and built by **Phil Crespo** "flipxcrsp" using **Base44**.
+Designed & built by **Phil Crespo** "flipxcrsp" using **Base44**.
 
-Stakeholder Mapper explores stakeholder mapping, buying committee visualization, and deal risk analysis.
+Stakeholder Mapper explores stakeholder mapping, buying committee visualization, & deal risk analysis.
 
-I was responsible for the product requirements, workflow design, business logic, testing, and documentation.
+I was responsible for the product requirements, workflow design, business logic, testing, & documentation.
 
 > **Note:** This is version 1.0. What started as a lunch break experiment turned into a project worth sharing 😅
 
@@ -23,7 +23,7 @@ I was responsible for the product requirements, workflow design, business logic,
 
 ## The Problem
 
-Enterprise deals are won or lost in the buying committee — not in a single conversation. Most CRMs track *contacts*, but they don't help you understand the **relationships**, **influence**, and **sentiment** that determine whether a deal closes.
+Enterprise deals are won or lost in the buying committee — not in a single conversation. Most CRMs track *contacts*, but they don't help you understand the **relationships**, **influence**, & **sentiment** that determine whether a deal closes.
 
 Sales teams often discover too late that:
 - They never found the Economic Buyer
@@ -31,27 +31,27 @@ Sales teams often discover too late that:
 - Their Champion had no real organizational influence
 - Relationship strength was concentrated in one person who left
 
-**Stakeholder Mapper** gives revenue teams a structured way to map every player in a deal, score the health of their relationships, and get proactive signals when a deal is at risk.
+**Stakeholder Mapper** gives revenue teams a structured way to map every player in a deal, score the health of their relationships, & get proactive signals when a deal is at risk.
 
 ---
 
 ## Key Features
 
 ### 🗂 Account Management
-- Create and manage accounts with deal stage, deal value, and industry
+- Create & manage accounts with deal stage, deal value, & industry
 - Dashboard view with real-time Deal Risk badges per account
-- Search and filter accounts by stage (Prospecting → Closed Won/Lost)
+- Search & filter accounts by stage (Prospecting → Closed Won/Lost)
 
 ### 🕸 Interactive Relationship Map
 - Force-directed D3 network graph visualizing the entire buying committee
 - Node size represents **influence score** (1–10)
 - Node color represents **sentiment** (Supporter / Neutral / Blocker)
 - Edge thickness represents **relationship strength** between stakeholders in the same department
-- Draggable nodes, zoom/pan, and click-to-inspect
-- Filter overlay to highlight Champions, Blockers, Decision Makers, Economic Buyers, Executive Sponsors, and Missing Types (ghost nodes)
+- Draggable nodes, zoom/pan, & click-to-inspect
+- Filter overlay to highlight Champions, Blockers, Decision Makers, Economic Buyers, Executive Sponsors, & Missing Types (ghost nodes)
 
 ### ⚠️ Deal Risk Engine
-- Automated risk scoring based on committee composition and relationship health
+- Automated risk scoring based on committee composition & relationship health
 - Inline risk panel overlaid on the relationship map
 - Three risk levels: **Healthy**, **At Risk**, **Critical**
 
@@ -62,7 +62,7 @@ Sales teams often discover too late that:
 - AI-generated next-best engagement recommendations
 
 ### 👥 Team View
-- Lists all workspace members with roles and account ownership counts
+- Lists all workspace members with roles & account ownership counts
 
 ---
 
@@ -70,8 +70,8 @@ Sales teams often discover too late that:
 
 | Role | Capabilities |
 |------|-------------|
-| **Admin** | Full access to all accounts, stakeholders, and team management |
-| **User (Account Owner)** | Creates and manages their own accounts; sees private notes on their stakeholders |
+| **Admin** | Full access to all accounts, stakeholders, & team management |
+| **User (Account Owner)** | Creates & manages their own accounts; sees private notes on their stakeholders |
 | **User (Team Member)** | Views shared accounts; cannot edit private notes or delete records they don't own |
 
 > Ownership is tracked via `owner_id` on each Account. Private stakeholder notes are only visible to the account owner.
@@ -94,7 +94,7 @@ The Deal Risk engine evaluates each account's buying committee against four crit
 - **At Risk** — only Medium severity factors are present
 - **Healthy** — no risk factors detected
 
-This methodology is implemented in `components/DealRiskBadge.jsx` via the exported `computeDealRisk(stakeholders)` function, which is shared across the Account Card, Relationship Map overlay, and Account Summary panel.
+This methodology is implemented in `components/DealRiskBadge.jsx` via the exported `computeDealRisk(stakeholders)` function, which is shared across the Account Card, Relationship Map overlay, & Account Summary panel.
 
 ---
 
@@ -202,15 +202,17 @@ src/
 
 ## Getting Started
 
-This application is built and hosted on [Base44](https://base44.com). To run your own instance:
+This application is built & hosted on [Base44](https://base44.com). To run your own instance:
 
 1. Fork the app on Base44
 2. Invite your team members via the Team page
-3. Create your first Account and add Stakeholders
+3. Create your first Account & add Stakeholders
 4. Open the Relationship Map to visualize your buying committee
 
 ---
 
 ## License
 
-MIT
+License to thrill. 
+
+Seriously, if you made it this far, I applaud you. 👏
