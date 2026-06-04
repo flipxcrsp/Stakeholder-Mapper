@@ -12,7 +12,7 @@
 
 Designed and built by **Phillip Crespo** "flipxcrsp" using **Base44**.
 
-Stakeholder Mapper explores stakeholder mapping, buying committee visualization, and deal risk analysis for B2B sales teams.
+Stakeholder Mapper explores stakeholder mapping, buying committee visualization, and deal risk analysis.
 
 I was responsible for the product requirements, workflow design, business logic, testing, and documentation.
 
