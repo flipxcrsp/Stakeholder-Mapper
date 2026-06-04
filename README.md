@@ -183,7 +183,17 @@ src/
 
 ## Screenshots
 
-> _Add screenshots of the Accounts dashboard, Relationship Map, and Account Summary here._
+### Accounts Dashboard
+
+![Accounts Dashboard](screenshots/Screenshot%202026-06-04%20150004.png)
+
+### Relationship Map
+
+![Relationship Map](screenshots/Stakeholder-Mapper_Relationship_map.png)
+
+### Account Summary
+
+![Account Summary](screenshots/Stakeholder-Mapper_.png)
 
 ---
 
