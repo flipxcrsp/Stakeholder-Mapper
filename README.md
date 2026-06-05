@@ -23,7 +23,7 @@ I was responsible for the product requirements, workflow design, business logic,
 
 ## The Problem
 
-Enterprise deals are won or lost in the buying committee — not in a single conversation. Most CRMs track *contacts*, but they don't help you understand the **relationships**, **influence**, & **sentiment** that determine whether a deal closes.
+Enterprise deals are won or lost in the buying committee, not in a single conversation. Most CRMs track *contacts*, but they don't help you understand the **relationships**, **influence**, & **sentiment** that determine whether a deal closes.
 
 Sales teams often discover too late that:
 - They never found the Economic Buyer
