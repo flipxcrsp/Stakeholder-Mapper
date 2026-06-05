@@ -121,7 +121,7 @@ Edges are drawn between stakeholders **in the same department**. Edge thickness 
 | 7–10 (Strong) | 6px |
 
 ### Ghost Nodes
-When the "Missing Types" filter is active, placeholder ghost nodes (dashed outline, `+` symbol) are rendered for any buying committee role not yet represented in the account — making coverage gaps visually obvious.
+When the "Missing Types" filter is active, placeholder ghost nodes (dashed outline, `+` symbol) are rendered for any buying committee role not yet represented in the account, making coverage gaps visually obvious.
 
 ### Forces
 The simulation uses:
